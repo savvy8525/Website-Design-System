@@ -1,0 +1,74 @@
+* {
+    font-family: sans-serif;
+    margin: 10px 10px;
+}
+
+.block {
+    border: 2px solid #000;
+}
+
+
+.color-swatch {
+    display: inline-block;
+    margin: 10px 15px;
+    padding: 20px;
+    width: 25%;
+    text-align: center;
+    font-weight: 600;
+}
+
+.medium-green {
+    background-color: #239B56;
+
+}
+
+.seagreen {
+    background-color: #48C9B0;
+}
+
+.light-gray {
+    background-color: #B2BABB;
+}
+
+/* .fonts {
+    margin: 10px 10px;
+} */
+
+.font-label {
+    display: inline-block;
+}
+
+.font-label {
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.bold {
+    font-weight: 800;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.rubik {
+    font-family: 'Rubik', sans-serif;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.heading h1 {
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.paragraph p {
+    text-decoration: underline;
+}
+
+ul {
+    margin: auto;
+}
